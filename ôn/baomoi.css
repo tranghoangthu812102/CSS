@@ -1,0 +1,75 @@
+ul.menungang{
+    list-style: none;
+    width:900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+ul.menungang li {
+    display: inline;
+}
+.menu_tren{
+    background-color: #2FA1B3;
+    height:30px;
+
+}
+
+ul.menungang li a{
+    color: white;
+    text-decoration: none;
+    font-family: segoe ui light;
+    text-transform: uppercase;
+    font-size: 13px;
+    padding-top: 6px;
+    display: inline-block;
+    padding-bottom: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    transition: 0.4s;
+}
+ul.menungang li a:hover{
+    background-color:rgb(12, 88, 100) ;
+    
+}
+
+
+.small_new_blocks{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    font-family: segoe ui light;
+}
+
+.small_new_blocks .left{
+    width: 25%;
+}
+.small_new_blocks .right{
+    width: 70%;
+}
+img {
+    width: 100%;
+}
+
+.small_new_blocks .right .a.a1{
+    text-decoration: none;
+    display: block;
+    color: rgb(14, 13, 13);
+
+}
+.small_new_blocks .right .span.minutes{
+    text-decoration: none;
+    color: gray;
+    font-size: 9px;
+
+}
+.small_new_blocks .right .a.a2{
+    text-decoration: none;
+    color: gray;
+    font-size: 9px;
+}
+.small_new_blocks .right .a.a3{
+    text-decoration: none;
+    color: gray;
+    font-size: 9px;
+
+}

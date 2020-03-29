@@ -1,0 +1,50 @@
+.banner{
+    display: flex;
+    justify-content: space-between;
+    width: 1146px;
+    margin: auto;
+}
+.banner ._1c{
+    width: 249px;
+}
+.banner ._1c .mothang{
+    display: flex;
+    flex-wrap: wrap;
+}
+.banner ._1c .mothang .hangtrai{
+    width: 35px;
+}
+.banner ._1c .mothang .hangphai{
+    width: 214px;
+    font-size: 14px;
+}
+.banner ._2c{
+    width: 525px;
+}
+.banner ._2c .tren{
+    height: 327px;
+}
+.banner ._2c .duoi{
+    height: 160px;
+    display: flex;
+}
+.banner ._2c .nua{
+    width: 50%;
+}
+img{
+    width: 100%;
+}
+.banner ._3c{
+    width: 372px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.banner ._3c .saudiv{
+    width: 50%;
+   
+}
+.myslide .carousel-indicators{
+    opacity: 0;
+}
+
+

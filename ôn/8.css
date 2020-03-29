@@ -1,0 +1,13 @@
+div.a {
+    display: flex;
+    width : 600px;
+}
+img.c1 {
+    width: 190px;
+    margin-right: 10px;
+    height: 250px;
+}
+img.c2{
+    width: 400px;
+    height: 450px;
+}

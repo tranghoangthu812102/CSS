@@ -1,0 +1,13 @@
+.khung{
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    background-image: url(s1.jpg);
+    text-align: center;
+    color: white;
+    font-size: 33px;
+    font-family: segoe ui light;
+}
+.khung .noidung{
+
+}

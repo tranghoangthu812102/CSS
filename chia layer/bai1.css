@@ -1,0 +1,72 @@
+.content{
+    display: flex;
+    width: 1320px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.products{
+    font-family: segoe ui light;
+    font-size: 13px;
+    color: #414141;
+    width: 400px;
+    height: 560px;
+    position: relative;
+    margin-bottom: 100px;
+}
+.products .anh1{
+    width: 100%;
+}
+.products .anh2{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: 0.4s;
+    opacity: 0;
+}
+.products:hover .anh2{
+    opacity: 1;
+}
+.products .layer3{
+    display: flex;
+    width: 100%;
+    
+    
+}
+.products .layer3 .trai{
+    width: 50%;
+
+}
+.trai a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #414141;
+
+
+}
+.products .layer3 .phai{
+    width: 50%;
+    text-align: right;
+
+}
+.products .layer4{
+    position: absolute;
+    bottom: -75px;
+    left:0;
+    transition: 0.4s;
+    opacity: 1;
+}
+.products:hover .layer4{
+    opacity: 0;
+}
+.products .layer5{
+    position: absolute;
+    bottom: -75px;
+    left:0;
+    transition: 0.4s;
+    opacity: 0;
+}
+.products:hover .layer5{
+    opacity: 1;
+}

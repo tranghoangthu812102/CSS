@@ -1,0 +1,31 @@
+.trai{
+    font-family: segoe ui light;
+    font-size: 13px;
+    width: 400px;
+}
+.trai img{
+    width: 100%;
+}
+a.anhvatd {
+    text-decoration: none;
+    color:gray;
+    font-size: 20px;
+}
+
+a.anhvatd:hover{
+    color: blue;
+}
+a.anhvatd h3{
+    margin: 0;
+    padding:0;
+}
+a.nguon{
+    text-decoration: none;
+    padding-right: 10px;
+}
+span.gio{
+    padding-right: 10px;
+}
+a.lq{
+    text-decoration: none;
+}
